@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+DogOrCat/PetImages
+SymbolRecognize/extracted_images
+FaceRecognize/recognizer/trainer.yml
+TrafficSignRecognize/ok.h5
+TrafficSignRecognize/test_labels.csv
+TrafficSignRecognize/submit_example.json
+TrafficSignRecognize/train_dataset/train.json
+TrafficSignRecognize/best_model.h5
+# dependencies
